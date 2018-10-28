@@ -1,2 +1,3 @@
 push to another branch
+added by bug_fix1
 added by master
