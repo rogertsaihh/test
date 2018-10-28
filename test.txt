@@ -1,5 +1,2 @@
-push to another branch [modify]
-added by bug_fix1
-#[delete]
 added by master
-added by bug_fix2
+added by bug_fix3
